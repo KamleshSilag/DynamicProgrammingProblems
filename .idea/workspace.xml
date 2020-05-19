@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40a8dbb3-b478-4f3a-ab15-79fba4597e0e" name="Default Changelist" comment="" />
+    <list default="true" id="8c5dd75e-3026-4ee3-afe5-8773686fc7bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DynamicProgrammingProblems/UglyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DynamicProgrammingProblems/UglyNumber.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1boVcoDONn9qnkcp1puO7QOUmpJ" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1boa0yjxA8tFdhfIcAyWAnFqjRn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,9 +32,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UglyNumber" />
+  <component name="RunManager" selected="Application.nthCatalanNumber">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="DynamicProgrammingProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NextPrime" />
+      <module name="DynamicProgrammingProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nthCatalanNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nthCatalanNumber" />
       <module name="DynamicProgrammingProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -35,7 +56,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UglyNumber" />
+        <item itemvalue="Application.nthCatalanNumber" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.NextPrime" />
       </list>
     </recent_temporary>
   </component>
@@ -44,12 +67,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="40a8dbb3-b478-4f3a-ab15-79fba4597e0e" name="Default Changelist" comment="" />
-      <created>1589298514598</created>
+      <changelist id="8c5dd75e-3026-4ee3-afe5-8773686fc7bf" name="Default Changelist" comment="" />
+      <created>1589300680671</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589298514598</updated>
-      <workItem from="1589298521567" duration="924000" />
+      <updated>1589300680671</updated>
+      <workItem from="1589300685321" duration="55000" />
+      <workItem from="1589371939656" duration="817000" />
+      <workItem from="1589650848609" duration="1403000" />
+      <workItem from="1589879191815" duration="191000" />
     </task>
     <servers />
   </component>
@@ -57,21 +83,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1239" height="298" key="GridCell.Tab.0.bottom" timestamp="1589299308713">
+    <state width="1195" height="125" key="GridCell.Tab.0.bottom" timestamp="1589879590951">
       <screen x="0" y="0" width="1237" height="657" />
     </state>
-    <state width="1239" height="298" key="GridCell.Tab.0.bottom/0.0.1237.657@0.0.1237.657" timestamp="1589299308713" />
-    <state width="1239" height="298" key="GridCell.Tab.0.center" timestamp="1589299308713">
+    <state width="1195" height="125" key="GridCell.Tab.0.bottom/0.0.1237.657@0.0.1237.657" timestamp="1589879590951" />
+    <state width="1195" height="125" key="GridCell.Tab.0.center" timestamp="1589879590950">
       <screen x="0" y="0" width="1237" height="657" />
     </state>
-    <state width="1239" height="298" key="GridCell.Tab.0.center/0.0.1237.657@0.0.1237.657" timestamp="1589299308713" />
-    <state width="1239" height="298" key="GridCell.Tab.0.left" timestamp="1589299308713">
+    <state width="1195" height="125" key="GridCell.Tab.0.center/0.0.1237.657@0.0.1237.657" timestamp="1589879590950" />
+    <state width="1195" height="125" key="GridCell.Tab.0.left" timestamp="1589879590949">
       <screen x="0" y="0" width="1237" height="657" />
     </state>
-    <state width="1239" height="298" key="GridCell.Tab.0.left/0.0.1237.657@0.0.1237.657" timestamp="1589299308713" />
-    <state width="1239" height="298" key="GridCell.Tab.0.right" timestamp="1589299308713">
+    <state width="1195" height="125" key="GridCell.Tab.0.left/0.0.1237.657@0.0.1237.657" timestamp="1589879590949" />
+    <state width="1195" height="125" key="GridCell.Tab.0.right" timestamp="1589879590951">
       <screen x="0" y="0" width="1237" height="657" />
     </state>
-    <state width="1239" height="298" key="GridCell.Tab.0.right/0.0.1237.657@0.0.1237.657" timestamp="1589299308713" />
+    <state width="1195" height="125" key="GridCell.Tab.0.right/0.0.1237.657@0.0.1237.657" timestamp="1589879590951" />
   </component>
 </project>
